@@ -1,0 +1,55 @@
+    Quick Questions 
+
+
+What is the PyCharm shortcut key for commenting selected line/s of code?
+
+Ctrl + /
+
+What is the single most important design principle for designing functions?
+Single Responsibility Principle(SRP).
+
+What is the Python keyword for returning a value from a function?
+return
+
+What are arguments and parameters? What is the difference between them?
+Parameters are the variables listed in the function definition. They are placeholders for the actual values that will be passed to the function when it is called.
+Arguments are the actual values that are passed to the function when it is called. They match up with the parameters defined in the function.
+             difference
+Parameters are used in the function declaration/definition.
+Arguments are the values passed to the function when it is called.
+
+What is the Python function call for generating a random number between 1 and 100?
+import random
+random_number = random.randint(1, 100)
+
+
+Name 4 functions we've used in the subject so far (functions we've "called").
+print() 
+input() 
+len() 
+range() 
+
+How many grams of freshly-ground specialty coffee did Lindsay make his coffee with in the lecture video?
+18 grams 
+
+Good names 
+
+determine a subject grade based on a given total score
+determine_grade(total_score)
+
+convert currency from USD to AUD
+usd_to_aud(usd_amount)
+
+print a report
+print_report(report_data)
+
+calculate the average of a list of numbers
+calculate_average(number_list)
+
+determine if a number is even
+is_even(number)
+
+get a user's salary, making sure that it is not negative
+get_nonnegative_salary()
+
+
